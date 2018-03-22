@@ -1,5 +1,6 @@
-// Select color input
-// Select size input
+const grHeight = document.querySelector('#inputHeight').value;
+const grWidth = document.querySelector('#inputWidth').value;
+const color = document.querySelector('#colorPicker').value;
 
 // When size is submitted by the user, call makeGrid()
 
